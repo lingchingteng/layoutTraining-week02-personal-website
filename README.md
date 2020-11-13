@@ -1,1 +1,1 @@
-# layoutTraining-week2
+# layoutTraining-week02-personal-website
